@@ -34,8 +34,9 @@ mappings the surviving evidence does not earn.
 In spring 1516, near the village of Gidle (Sieradz Voivodeship, then
 Kingdom of Poland), the peasant Jan Czeczek went out to plow. His oxen
 stopped and would not move; when he beat them harder they knelt down
-on the ground. Walking in front of them he found, on a large field
-stone shaped like a chalice, a small dark figurine of the Virgin and
+on the ground. Walking in front of them he found, on a large
+field-stone shaped like a chalice, a small dark figurine of the Virgin
+and
 Child — *„a około tego kamienia i obrazu jasność barzo miła i
 przyjemna”* ("around that stone and image, a very mild and pleasant
 brightness"). He took it home; the household was struck blind; the
@@ -82,7 +83,6 @@ of the panel (it makes the case visible) and **§5 *Recurring anomalies***
 | --- | --- |
 | [`docs/synthesis.md`](docs/synthesis.md) | The main document. |
 | [`docs/references/`](docs/references/) | Local copies of primary sources where digital editions exist. Trebnic 1636 is not digitised; Tomasz z Pilzna 1645 and Zagajowski 1724 are present as full DjVu + PDF sets. See [`docs/references/README.md`](docs/references/README.md) for the catalogue with snapshot dates and canonical URLs. |
-| [`docs/transcripts/`](docs/transcripts/) | Conversation transcripts that seeded the investigation (kept verbatim for provenance, not for citation). |
 | [`docs/working-notes/zagajowski-anomaly-sweep/`](docs/working-notes/zagajowski-anomaly-sweep/) | The 15 `grep` hit-lists from the systematic anomaly sweep of the Zagajowski 1724 OCR, plus a README with the patterns and regeneration recipe. These are the raw material §5 was built from. |
 | [`IMG/`](IMG/) | Field photographs of the altar and the relief panel, taken in-situ at the basilica. |
 | [`IMG/annotated/`](IMG/annotated/) | The annotated panel (`panel-annotated.jpg`, full-res; `panel-annotated-2k.jpg`, downscaled) plus focused crops keyed to the markers in §3.1. |
@@ -116,6 +116,91 @@ The full commitments are in §8 of the synthesis. The short version:
   diagnostic and structural, not a claim about underlying ontology.
   §8.4 makes the boundary explicit: §§1–8 must remain readable and
   load-bearing for a reader who rejects §9 entirely.
+
+## How this project started
+
+A short note on provenance, written in the same epistemic register as
+the rest of the document.
+
+The investigation began with a visit to the Gidle basilica made
+without prior knowledge of the site, the figurine, or the 1516
+discovery story (*„I had no idea this place existed”*). The friar's
+on-site description of the figurine and the surrounding altar art
+suggested that there was more here than ordinary devotional
+iconography; a follow-up conversation with Grok the same day —
+held privately as field material rather than published in the
+repo, in the convention researchers use for raw interview and
+conversation notes — pulled enough of the narrative thread that
+the project took shape over the hours that followed.
+
+There are two honest ways to describe how the visit itself came about:
+
+1. **By chance.** The most economical reading. The visit was made
+   incidentally; the basilica was encountered rather than sought; no
+   prior interest in Marian apparitions, Polish Dominican history, or
+   the comparative-anomalies literature was driving the choice.
+2. **Guided.** The reading the document itself does not foreclose. In
+   the same comparative register that §9 applies to historical
+   accounts of the same class, the chain of events that drew
+   attention to this particular sanctuary may be of the kind that
+   contemporary experiencer literature describes as *prompted*,
+   *directed*, or otherwise non-coincidental.
+
+The academic content of the project does not depend on which of these
+two readings is correct, and the document does not attempt to
+adjudicate between them — for exactly the reasons articulated in §8.4
+about not importing causal/ontological language the surviving evidence
+does not earn. The structural parallel between this discoverer's
+experience and Czeczek's own — an ordinary person, going about an
+ordinary day, encountering something they were not looking for — is,
+however, worth naming, even if it is not worth arguing.
+
+## On AI collaboration
+
+This document was assembled in a single working session on the
+afternoon and evening of **30 May 2026**, following the basilica
+visit earlier that same day, in collaboration with **Claude Opus 4.7
+running in the Cursor IDE**.
+
+The division of labour is worth naming explicitly:
+
+- The **human author** (a physicist by training) drove the
+  investigation: the on-site visit, the original observations and
+  photographs, every framing decision, all Polish-language
+  verification, and — crucially — the corrective re-readings where
+  the AI's first pass was wrong. Notable examples kept visible in
+  the document as audit trail: the sun + moon iconography vs. the
+  retracted wind-face reading (§3.1 marker #5); the bridge-and-pilgrim
+  vignette vs. the retracted literal-underground reading (§3.1
+  marker #14, §5.3); the missed axe (§3.1 marker #17); the cylinder
+  (§3.1 marker #16).
+- **Claude Opus 4.7 (Cursor IDE)** did the bulk of the heavy-lifting
+  in source discovery and download (Cholewiński 2015, Torenc 2010,
+  the digital editions of Pilzna 1645 and Zagajowski 1724); the OCR
+  pipeline (DjVu → text); the systematic 15-category anomaly sweep
+  of the Zagajowski text; first-pass drafting of §§3, 5, 6, 8, and 9;
+  and bibliography assembly. The model also caught several of its
+  own factual errors before commit (wrong PhD institution for
+  Pasulka, a hallucinated *American Cosmic* chapter title, an
+  incorrect SOL Foundation founder list — all named in commit
+  messages so they remain traceable).
+
+The standard disclaimer applies: the human author is responsible
+for every position taken in this document, and a careful reader
+should treat AI-drafted material as starting points to be verified
+rather than as final scholarship. The commits are designed so any
+specific claim can be traced from final wording back to the
+underlying primary source by following the `git log`.
+
+A subsidiary observation, since it is honestly a relevant fact: that
+a synthesis of this depth (~1400 lines), an annotated relief panel
+with 17 cited markers, a systematic anomaly sweep of an 8250-line
+17th-c. Polish OCR, and an end-to-end comparative-literature reading
+could be assembled inside a single working session is, in itself, a
+small empirical data point about how productively a trained
+researcher and a current-generation reasoning model can now
+collaborate on an archival case. It is not the project's purpose, but
+it is part of its situation, and worth recording alongside the rest.
 
 ## Status
 
