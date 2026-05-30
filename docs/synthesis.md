@@ -240,31 +240,50 @@ rather than competing:
 
 ## Primary sources
 
+Local copies, where digital editions exist, are in
+[`references/`](./references/). See [`references/README.md`](./references/README.md)
+for the full catalogue, snapshot dates, canonical URLs, and notes on the
+non-digital sources.
+
 - **Jerzy Trebnica (Trebnic) OP**, *Historya o Cudownym Obrazie
   Przenaswiętszey Panny Mariey, który jest w Gidlach*, 1636 — earliest
   printed account of the discovery; the canonical text from which the
   archaic-Polish passage in §1 above is quoted (via the Dominicans’
-  history page).
+  history page). No digital edition has been located.
 - **Ambroży Zagajowski OP** (1663–1721), *Skarb wielki Wojewodztwa
-  Sieradzkiego Ná Roli Gidelskiey znaleziony…*, Kraków 1724 — digitized
-  in the Sandomierz Diocesan Digital Library:
-  <https://bc.bdsandomierz.pl/dlibra/publication/1071/edition/1028> (DjVu,
-  public domain).
+  Sieradzkiego Ná Roli Gidelskiey znaleziony…*, Kraków 1724 — public-domain
+  scan from the Sandomierz Diocesan Digital Library
+  ([online](https://bc.bdsandomierz.pl/dlibra/publication/1071/edition/1028);
+  [local DjVu](./references/zagajowski-1724-skarb-wielki/)).
 - **Łukasz Cholewiński**, *„Dzieje sanktuarium Matki Bożej w Gidlach w
-  świetle akt z Archiwum Dominikanów w Krakowie”*, *Roczniki
-  Teologiczne* LXII (2015), zesz. 4, pp. 85–104 —
-  <https://ojs.tnkul.pl/index.php/rt/article/download/8607/8286/>. The
-  source for the 1630 Speyzer contract, the 1651 altar, the 1670 gilding,
+  świetle akt z Archiwum Dominikanów w Krakowie”*, *Roczniki Teologiczne*
+  LXII (2015), zesz. 4, pp. 85–104
+  ([online PDF](https://ojs.tnkul.pl/index.php/rt/article/download/8607/8286/);
+  [local PDF](./references/cholewinski-2015-dzieje-sanktuarium.pdf)).
+  Source for the 1630 Speyzer contract, the 1651 altar, the 1670 gilding,
   and the painters active in mid-17th-c. Gidle.
-- **Dominikanie Gidle**, *Historia* (sanctuary website),
-  <https://gidle.dominikanie.pl/klasztor/historia/> — the page that
-  preserves Trebnica’s passage in extenso and gives the modern Dominican
-  reading of the relief as a *dawne antepedium*.
-- **K. Walaszczyk**, *Sanktuarium Matki Bożej Gidelskiej*, Radomsko:
-  Muzeum Radomszczańskie 1993; **K. Żukiewicz**, *Matka Boska Gidelska*,
+- **Dominikanie Gidle**, *Historia* (sanctuary website)
+  ([online](https://gidle.dominikanie.pl/klasztor/historia/);
+  [local HTML](./references/dominikanie-gidle-historia.html)) — preserves
+  Trebnica’s passage in extenso and gives the modern Dominican reading of
+  the relief as a *dawne antepedium*. The companion page on the figurine
+  itself ([online](https://gidle.dominikanie.pl/sanktuarium/figurka-mb/);
+  [local HTML](./references/dominikanie-gidle-figurka.html)) is the
+  original starting point of the investigation.
+- **Fundacja Hereditas**, *Figurka Matki Bożej Gidelskiej* (2021)
+  ([online](http://cudaregionu.fundacja-hereditas.pl/2021/11/15/figurka-matki-bozej-gidelskiej/);
+  [local HTML](./references/fundacja-hereditas-figurka-mb-gidelskiej.html))
+  — notes the 7.5 cm height, the medieval stylistic affinity, and the
+  Garlicki 1669–1670 altar dating.
+- **Wikipedia (pl)**, *Bazylika Wniebowzięcia NMP w Gidlach*
+  ([online](https://pl.wikipedia.org/wiki/Bazylika_Wniebowzi%C4%99cia_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_w_Gidlach);
+  [local HTML](./references/wikipedia-pl-bazylika-gidle.html)) — 1640–1655
+  construction range, 1998 *bazylika mniejsza*, heritage register numbers.
+- **K. Walaszczyk**, *Sanktuarium Matki Bożej Gidelskiej*, Radomsko: Muzeum
+  Radomszczańskie 1993; **K. Żukiewicz OP**, *Matka Boska Gidelska*,
   Radomsko: Muzeum Radomszczańskie 2011 — modern scholarly / devotional
-  monographs cited by Cholewiński.
+  monographs cited by Cholewiński. No digital editions located.
 - **R. Świętochowski OP**, *„W 450 rocznicę wyorania cudownego posążka
-  Matki Boskiej Gidelskiej”*, Kraków 1966, typescript in the Dominican
-  Archive in Kraków — the key 20th-c. internal reconstruction of the
-  sanctuary’s building history.
+  Matki Boskiej Gidelskiej”*, Kraków 1966 — typescript in the Dominican
+  Archive in Kraków; key 20th-c. internal reconstruction of the sanctuary's
+  building history.
