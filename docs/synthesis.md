@@ -614,19 +614,146 @@ hollow stone it was found in.
 
 ## 6. The core hypothesis
 
-The two angles — anomalous event **and** very old objects — fit together
-rather than competing:
+The Gidle case spreads across three connected but separately evaluable
+layers — the **physical objects** (figurine + chalice-stone), the **1516
+discovery event**, and the **207-year subsequent record of recurring
+anomalous phenomena**. Treating these as one undifferentiated
+"miraculous tradition" hides what they actually are: three claims with
+distinct evidence bases that can each be supported, refined, or refuted
+on its own terms. Stated as a compound hypothesis:
 
-> The 1516 event in Gidle may represent the **reactivation** of older
-> sacred material (the small figurine, possibly the large chalice-stone,
-> perhaps a pre-Christian earth-cult site) through an anomalous,
-> multi-modal occurrence. The disturbance of the soil by plowing was the
-> trigger; the phenomenon involved a luminous/energetic component around
-> stone and figurine, and physical effects on humans and animals (oxen
-> kneeling, family blindness). Trebnica preserved a restrained 1636 oral
-> tradition; later writers amplified the luminous element; the mid-17th-c.
-> relief preserved the visual sense of an active, multi-modal event most
-> strongly of all.
+### 6.1 The objects predate the cult, and may predate Christianisation
+
+> The small dark figurine and the chalice-hollowed field stone existed
+> as objects of (at least implicit) religious significance before 1516,
+> and quite possibly before the Christianisation of the region (10th–
+> 11th c. in this part of Poland).
+
+**Evidence in favour.** The figurine is stylistically medieval, but its
+material (described variously as *kamień głazowy* "boulder stone" /
+dark stone / possibly mammoth bone) has never been independently dated;
+its 7.5 cm size, dark patina, and survival in field soil are all
+consistent with significant age. The chalice-hollowed stone is a
+recognised pre-Christian votive form across the European Slavic and
+Baltic regions, where hollowed boulders served as offering basins. The
+near-universal pattern of Christian sanctuaries being built directly
+over older sacred stones, wells, and groves (§7) makes Gidle one
+case in a wide class.
+
+**What would change this.** A modern material/dating analysis of the
+figurine; an archaeological survey of the chapel foundations capable of
+confirming or denying the presence of the large stone *in situ* and of
+characterising the substrate. Both are listed in §10 (Open questions
+1 + 2) for exactly this reason.
+
+### 6.2 The 1516 discovery was an anomalous, multi-modal event
+
+> What Jan Czeczek encountered in spring 1516 was not the silent
+> exposure of an ordinary buried artefact, but a **co-occurring set of
+> physical effects** around the place where the figurine emerged from
+> the soil: a localised ground-level brightness, animal
+> paralysis/kneeling, witness physical reaction (Czeczek kneeling in
+> fear), and downstream effects on the family (blindness reversed by
+> wash-water contact).
+
+**Evidence in favour.** Trebnic 1636 preserves the *restrained* core —
+animal paralysis ("*stanęły mu woły… przyklękły woły na ziemię*"),
+brightness around stone and image ("*jasność barzo miła i przyjemna*"),
+and the witness's involuntary kneeling — within 120 years of the
+event. The relief carved c. 1651–1670 (§3), working from local
+memory still alive two generations later, preserves the **bi-radial
+ground-and-sky structure** the texts only hint at (markers #6 + #11).
+Cholewiński 2015 and Torenc 2010 document the wash-water cure and the
+*kąpiółka* rite as continuous threads back to the earliest records.
+The modes (animal paralysis + ground brightness + witness reaction +
+delayed physiological effects) co-occur in a tight temporal window —
+the configuration matters more than any single effect.
+
+**What would change this.** A pre-1636 source documenting a mundane
+discovery account (e.g. an ordinary find catalogued in a *acta*
+visitation register before the cult narrative formed), or
+demonstration that the discovery narrative was substantially
+constructed *after* the cult was already established and the
+phenomenological details retro-fitted.
+
+### 6.3 The site and objects continued to host recurring anomalies for centuries
+
+> The 1516 event was not isolated. For at least the next two centuries
+> the site, the figurine, and contact-vectors derived from them
+> (wash-water, dust, paper copies) continued to host phenomena of the
+> same kinds — luminous, aerial, olfactory, and physical — recorded by
+> Dominican notaries from sworn affidavits.
+
+**Evidence in favour.** Zagajowski 1724 catalogues ~300 such cases,
+with a back-of-book index that names recurring phenomena as **formal
+classes**, not as individual events (§5). The clearest examples (each
+with line citations to the OCR in §5):
+
+- Recurring nocturnal luminous phenomena at the church — multi-witness,
+  vanishing-on-approach (§5.1, indexed at l. 7563).
+- Three independent daylight aerial-figure encounters (§5.2: l. 3461,
+  l. 6985, l. 7081), including the Pławno 1662 *translucent figure*
+  with verified predictive content.
+- Depth-rescue miracles formally indexed as two classes: buried-by-
+  earth and well-fall (§5.3, l. 7561).
+- The Bartolomeus Plebani deposition on **anomalous material property
+  of the figurine itself** (fragrant dust when burnt, §5.4, l. 3070).
+- Material-form exit of "possessing" entities, multi-witnessed (§5.5,
+  l. 5099, l. 5354).
+- A back-of-book index with classes for *infernal fire*, *invulnerability
+  to weapons*, *strangulation rescue*, *madness*, *paralysis*,
+  *blindness*, *plague-air* (§5.6).
+
+**What would change this.** A controlled comparison showing that
+Zagajowski's miracle distribution is statistically indistinguishable
+from contemporary collections of comparable Marian sanctuaries with no
+specific claim to an anomalous discovery. The current literature
+(Walaszczyk 1993, Żukiewicz 2011, Cholewiński 2015, Torenc 2010) does
+not attempt such a comparison; it would be a meaningful empirical
+contribution.
+
+### 6.4 The integration
+
+The simplest model that accommodates all three layers without
+contradiction is:
+
+> An older sacred material — the figurine, possibly the stone, possibly
+> the site itself — was **reactivated** in 1516 by a trigger event
+> (plowing disturbing the soil). The reactivation produced the
+> multi-modal phenomenon described in §4 (ground brightness, animal
+> paralysis, witness reaction, downstream physical effects). The
+> object and place continued to host recurring multi-modal phenomena
+> at lower intensity across the centuries that followed, documented in
+> the §5 catalogue. The cult absorbed and theologically re-coded these
+> phenomena into Marian devotion, but the underlying phenomenological
+> substrate remained visible enough in the texts and the mid-17th-c.
+> relief to be reconstructable today.
+
+This is internally coherent and parsimonious. It is **not proof**; it
+is the hypothesis the surviving evidence resists *least*. Two
+alternative accounts the same evidence resists more:
+
+- *Strong-skeptical*: "all of this is pious invention amplified across
+  centuries." Resisted by the multi-witness sworn affidavits with
+  notarial signatures and named secondary witnesses, by the
+  independent corroboration of the relief's bi-radial structure
+  (carved 120 years after the event, by a different hand, in a
+  different medium), and by the specificity of details that serve no
+  devotional purpose (the fragrant dust, the insect form of the
+  Sworska exit, the architectural realism of the bridge vignette).
+- *Strong-traditional*: "this is straightforwardly Mary appearing in
+  supernatural form." Resisted by the not-uniformly-positive valence of
+  the phenomena (Czeczek-family blindness, paralysis, the Pławno
+  *Image of Death*, the broken-bone exit-sign of the Woytowicz
+  exorcism), by the **object-anchoredness** of the phenomena (dust,
+  wash-water, paper copies as physical vectors rather than purely
+  liturgical contexts), and by the recurrence of structurally
+  identical phenomena at many unconnected sites with quite different
+  theological framings (§7).
+
+The hypothesis as stated (6.1 + 6.2 + 6.3 → 6.4) sits **between** these
+two extremes, requires fewer additional assumptions than either, and
+makes the most use of what the primary sources actually preserve.
 
 ## 7. Supporting context
 
@@ -655,28 +782,335 @@ rather than competing:
 
 ## 8. What is observation, what is interpretation
 
-- **Observation (textual + visual sources):** plowing → animal reaction
-  (oxen kneeling) → brightness around stone and image (Trebnica 1636) /
-  light from the earth (later) → small dark figurine on a chalice-hollowed
-  stone → blindness in the family → light and fragrance from the chest →
-  healing via wash-water → 1615 Dominican custody → 1923 coronation. The
-  panel (c. 1651–1670, antependium of the chapel altar) shows three
-  layered zones (earth / surface / heaven), dual radiant bursts at the
-  discovery point and in the sky, four successive sanctuary buildings,
-  and a secondary topographic vignette of the actual Gidle church with
-  a pilgrim crossing an arched bridge over water.
-- **Reasonable inference:** the figurine is likely older than its written
-  cult (date and material unconfirmed; stylistically medieval); the large
-  stone almost certainly remains under the present chapel; the panel
-  preserves an earth-emergent, multi-modal character that the texts
-  downplay.
-- **Speculative (phenomenological reading):** the 1516 event as an
-  anomalous, multi-modal occurrence with physical/radiation-like effects;
-  the objects as pre-existing sacred material being reactivated.
-  Internally coherent and consistent with patterns Pasulka identifies, but
-  not provable from the surviving sources.
+Because this document is moving from primary-source reconstruction (§§
+1–5) toward an explicitly comparative reading (§9), it helps to mark
+every claim against three epistemic tiers. The lines between them
+matter more than the conclusions on either side.
 
-## 9. Open questions
+### 8.1 Observation — what the sources literally say
+
+- **Discovery event (textual + visual):** plowing → animal reaction
+  (oxen stopped, then knelt) → brightness around the stone and image
+  (Trebnica 1636) / light from the earth (later writers) → small dark
+  figurine in a chalice-hollowed stone → blindness in the Czeczek
+  family → light and fragrance reported from the closed chest →
+  healing via wash-water → 1615 Dominican custody → 1923 papal
+  coronation.
+- **Relief panel (c. 1651–1670, antependium):** three layered zones
+  (earth / surface / heaven), dual radiant bursts at the discovery
+  point and in the sky, *mulier amicta sole* sun + moon framing,
+  four successive sanctuary buildings, a secondary topographic
+  vignette of the actual Gidle church with a pilgrim crossing an
+  arched bridge over water, Czeczek's hat and small axe discarded on
+  the ground.
+- **Subsequent record (Zagajowski 1724, 300 sworn entries plus a back-
+  of-book index):** see §5 for the full catalogue. Headline classes:
+  recurring nocturnal lights at the church (formally indexed at
+  l. 7563); three independent daylight aerial-figure encounters
+  (l. 3461, l. 6985, l. 7081); depth-rescue miracles as two
+  distinct indexed classes (l. 7550, l. 7561); the Bartolomeus
+  Plebani fragrant-dust deposition (l. 3070); material-form exit of
+  "possessing" entities (l. 5099, l. 5354).
+
+### 8.2 Reasonable inference — what the evidence supports without much added speculation
+
+- The figurine is older than its written cult (style mid-medieval,
+  cult begins 1516, between which there is a gap that wants explaining).
+  Date and material unconfirmed; stylistically consistent with 13th–
+  14th-c. Marian statuettes.
+- The large chalice-hollowed stone almost certainly remains *in situ*
+  beneath the present chapel.
+- The panel (independent of the texts) preserves an **earth-emergent,
+  multi-modal, bi-radial** character that the modern devotional
+  literature has flattened — and it does so within 120–155 years of
+  the event, while local memory was still alive.
+- The §5 record represents *something specific* about the place: the
+  density, multi-modality, and formal-index status of the recurring
+  phenomena are unusual enough to deserve comparison against
+  contemporary collections from other sanctuaries (which has not been
+  done in the literature).
+
+### 8.3 Speculative — the phenomenological reading
+
+- The 1516 event as an anomalous, multi-modal occurrence with
+  physical/radiation-like effects.
+- The objects (figurine, stone) as pre-existing sacred material that
+  was *reactivated* in 1516 rather than first created then.
+- The recurring phenomena in §5 as low-intensity continuations of the
+  same underlying phenomenon class.
+- Internally coherent, fits the primary sources better than the
+  strong-skeptical and strong-traditional alternatives (§6.4), but
+  **not provable** from the surviving evidence — only consistent with
+  it.
+
+### 8.4 What changes — and what does not — when we adopt comparative anomalous-encounter framing in §9
+
+The section that follows (§9) reads the Gidle material against
+Pasulka's *American Cosmic* / *Encounters* framework and the wider
+comparative-phenomenology literature on anomalous encounters (Vallée,
+Keel, Hynek's CE-3/CE-4 typology, the SOL Foundation papers, the
+comparative work on Marian apparitions). The point of doing this is
+**diagnostic**, not metaphysical. To be explicit:
+
+- **Adopting the frame does not change tier 8.1.** The primary-source
+  observations stand on their own; they were observed and recorded
+  long before any modern anomaly framework existed. The Zagajowski
+  affidavits are what they are regardless of how a 21st-century
+  reader chooses to organise them.
+- **Adopting the frame does not change tier 8.2.** The reasonable
+  inferences follow from the sources by ordinary historical-critical
+  reasoning. They would be the same if Pasulka had never been
+  written.
+- **Adopting the frame *does* sharpen tier 8.3.** The comparative
+  literature gives us a vocabulary (CE-2 luminous/aerial, CE-3
+  entity-encounters, "high-strangeness," "material residue,"
+  "experiencer"), a typology of recurrence patterns, and a set of
+  modern reports whose phenomenology has been catalogued with much
+  better epistemic discipline than 17th-century notaries had
+  available. Used carefully, this lets us ask *which features of the
+  Gidle record are distinctive and which are common to a broader
+  class* — a sharper question than "is Gidle 'true'?"
+- **What the frame does *not* license.** It does not license:
+  identifying Gidle as a "UFO event"; identifying the figurine as
+  "technology of non-human intelligence"; reading the Pławno
+  translucent figure as "a Grey"; reading the Bartolomeus dust as
+  "exotic isotopic material." Such mappings would substitute a
+  modern mythological vocabulary for a 17th-century one — gaining
+  nothing in precision and losing the specific shape of the actual
+  record. §9 will resist all such mappings explicitly.
+- **The integrity test.** A reader who rejects the entire
+  contemporary UAP/NHI literature should still be able to read §§
+  1–8 of this document without objection, and should find §9
+  separable: a clearly-marked *comparative* exercise whose
+  acceptance or rejection does not retroactively contaminate the
+  archival work.
+
+That commitment is what licenses §9 to exist at all in a document
+otherwise built from sworn 17th-century affidavits.
+
+## 9. A comparative anomalous-encounter reading
+
+This section places the Gidle record next to two adjacent comparative
+literatures — the social-historical study of Marian apparitions, and
+the contemporary academic study of anomalous / UAP / "phenomenon"
+encounters — and asks what each one illuminates about the other. The
+discipline established in §8.4 is in force: this is a comparative
+exercise, not a metaphysical claim. The §§1–8 archival reconstruction
+must remain readable and load-bearing independently of whether anyone
+finds the comparison itself useful.
+
+### 9.1 The two comparative literatures
+
+**The Marian-apparition literature** is older and more
+methodologically settled. The canonical entry points are William
+Christian Jr's *Apparitions in Late Medieval and Renaissance Spain*
+(Princeton, 1981) and *Visionaries: The Spanish Republic and the
+Reign of Christ* (California, 1996), Marina Warner's *Alone of All
+Her Sex* (Knopf, 1976), Sandra Zimdars-Swartz's *Encountering Mary*
+(Princeton, 1991), and David Blackbourn's *Marpingen* (Knopf, 1994).
+These works treat Marian apparitions as a real social-historical
+phenomenon — recurring across Catholic Europe and the Americas from
+roughly the 12th century onward — without committing to a particular
+theory of what the visionaries actually encountered. The recurring
+phenomenology they document includes: rural lay discoverers
+(especially women and children); ground-level, boundary, or pastoral
+settings (fields, springs, caves, trees); multi-sensory features
+(luminous, auditory, olfactory); physical effects on witnesses
+(paralysis, weeping, illness, cure); rapid local cult formation often
+in tension with initial ecclesiastical caution; and material
+mediators (statues, springs, cloths, dust).
+
+**The contemporary anomalous-encounter literature** is younger and
+methodologically more contested, but a serious academic strand exists.
+Key works: Jacques Vallée's *Passport to Magonia* (Regnery, 1969) and
+*Dimensions* (Contemporary, 1988), which explicitly draw the
+phenomenological parallel between modern UAP encounters and folkloric
+/ religious apparition reports; J. Allen Hynek's *The UFO Experience*
+(Regnery, 1972), which introduced the CE-1/CE-2/CE-3 typology
+(close encounters of the first, second, third kind — distinguishing
+visual sightings from physical-trace events from entity encounters);
+John Keel's *The Mothman Prophecies* (Saturday Review, 1975); and most
+relevantly for this project, **D. W. Pasulka's *American Cosmic***
+(Oxford UP, 2019) and **Encounters** (St. Martin's, 2023), which read
+the contemporary "experiencer" community as continuous with historical
+religious-vision communities and treat physical objects and places as
+"religious technology" mediating the phenomenon. The Stanford-affiliated
+**SOL Foundation** (Garry Nolan, Peter Skafish, founded 2023) is now
+producing peer-reviewed-style whitepapers in this space. The 2017
+*New York Times* UAP disclosure cycle and the 2022/2023 NASA UAP
+Independent Study Team report (David Spergel, chair) have moved the
+topic from fringe to (cautiously) institutionally legitimate, which
+is why the comparative move is worth making now in a way it wasn't
+twenty years ago.
+
+### 9.2 Pasulka's specific framework
+
+Of the contemporary literature, Pasulka's is the one most directly
+useful here, for three reasons:
+
+1. **She is a religious-studies scholar by training** (PhD in religion,
+   Syracuse University 2003, supervised by James W. Watts; now
+   Professor of Religious Studies at UNC Wilmington, where she was
+   Chair of the Department of Philosophy and Religion 2015–2019; her
+   earlier monograph *Heaven Can Wait*, Oxford 2014, is on Catholic
+   purgatorial doctrine), so she reads the contemporary anomaly
+   literature *through* the historical religious-apparition literature,
+   not against it. Her tools are textual, ethnographic, and
+   comparative — the same tools §§1–8 of this document use on Gidle.
+2. **She brackets the metaphysical question.** *American Cosmic* is
+   not an argument that NHI exists; it is a study of what happens to
+   people who report having had encounters, and of the religious-
+   technological lattice (objects, sites, communities, rituals) that
+   forms around such reports. That bracketing maps exactly onto the
+   stance §8 stakes out for this document.
+3. **She emphasises the role of physical objects** as anchors of the
+   phenomenon — "religious technology" in her vocabulary. This is
+   directly relevant to Gidle, where the figurine, the chalice-stone,
+   the wash-water, and the fragrant dust are not incidental devotional
+   props but the recurring anchors around which the phenomena
+   cluster.
+
+The Pasulka frame asks of a case like Gidle: *which objects are doing
+phenomenological work? what kinds of effects do they mediate? what
+community grows around them? what continuity is there between the
+reported original event and the recurring reports that follow?* These
+are exactly the questions §§5–6 of this document have been answering
+on its own terms.
+
+### 9.3 Where the Gidle record maps cleanly to the comparative typology
+
+| Gidle feature (§5 reference) | Marian-apparition literature | Contemporary anomaly literature |
+| --- | --- | --- |
+| Recurring nocturnal luminous phenomena at the church (§5.1, l. 7563) | Standard "*lumière surnaturelle*" class (Christian 1981 ch. 3; Marpingen 1876–1877 — Blackbourn 1994) | Hynek CE-1/CE-2 nocturnal-light reports; the "orb" / "BOL" subclass widely catalogued in modern reports |
+| Daylight aerial-figure encounter with structured imagery (§5.2, l. 3461) | The "vision in the clouds" topos — common in early-modern Spanish and Italian apparition reports | Hynek CE-3 daylight aerial figure; Vallée *Passport* draws the explicit parallel |
+| Translucent figure delivering predictive content (Pławno 1662, §5.2, l. 7081) | Apparitions delivering verifiable warnings — La Salette 1846, Fatima 1917 | "Contactee" sub-class; Vallée's *Magonia* explicitly notes the predictive/admonitory pattern |
+| Approaching luminous "cloud" that resolves into figure (§5.2, l. 6985) | The *nimbus*/*nube luminosa* topos | The "BOL → entity" sequence in modern abductee reports (Hopkins, Jacobs — controversial but phenomenologically real as report data) |
+| Depth-rescue miracles as a formal class (§5.3) | Less direct parallel — Marian protection is broader and not specifically depth-anchored | The "preservation from impossible harm" subclass in modern experiencer reports |
+| Anomalous material property of the figurine (fragrant dust, §5.4) | The relic / *brandeum* / contact-relic tradition more broadly | Pasulka's "religious technology" concept literally; the "anomalous materials" subclass (Pasulka 2019, *American Cosmic* Conclusion "The Artifact" + ch. 5 "The Material Code") |
+| Material-form exit of "possessing" entities (§5.5) | Less direct parallel — most exorcism reports describe non-material exit | The "material residue" / "physical-trace" subclass of CE-2 |
+| Sun-and-moon iconographic framing (panel marker #5 + #15) | *Mulier amicta sole* — Rev. 12:1, standard Marian | (No direct map — purely theological iconography) |
+| Multi-modal co-occurrence at discovery (light + animal paralysis + witness reaction + delayed effects) | The "annunciation" pattern (light, voice, kneeling, sign) | Hynek CE-2 prototype — physical effect on environment, animals, witness, sometimes with delayed physiological consequences |
+
+The mapping that holds with **least strain** is the **anomalous
+material property of the figurine** (§5.4). The fragrant-dust
+deposition reads almost word-for-word as a 17th-century Polish
+equivalent of the "anomalous materials" reports that Pasulka covers
+in *American Cosmic* (Conclusion: "The Artifact"; and ch. 5, "The
+Material Code") — material that behaves in ways that surprise both
+witness and witness's domain expert (a goldsmith here, a chemist or
+physicist in the modern reports), with the surprise being noted at
+the time and recorded contemporaneously.
+
+The mapping that holds with **moderate strain** is the **luminous and
+aerial phenomena** (§§5.1–5.2). The phenomenology is parallel; the
+interpretive coding (angels and Marian iconography vs. craft and
+entity) is the variable that changes across cultures and centuries
+— exactly the variable Vallée and Pasulka argue is the variable.
+
+### 9.4 Where the mapping strains, and what that tells us
+
+Three places where Gidle does not map cleanly onto either comparative
+literature:
+
+**(a) The *centrality of the object*.** Marian apparitions usually
+centre on a *person* (the visionary) and a *place*; the object (a
+statue, a medal, a cloth) is secondary. Modern UAP reports usually
+centre on a *craft* and an *event*; physical objects are rare and
+often disputed (Roswell, the Davis-Wilson briefing material).
+Gidle centres on **an object first** — a 7.5 cm dark figurine in a
+chalice-hollowed stone — that *then* generates the discovery
+narrative, the cult, and 200 years of recurring phenomena. The
+object-centrism is unusual in both comparative literatures and is
+arguably the Gidle case's most distinctive feature. The closest
+parallel is the **Black Madonna / wonder-working icon** sub-class
+(Częstochowa, Loreto, Guadalupe) — but those icons are usually
+presented to the cult, not discovered in the soil with co-occurring
+phenomena.
+
+**(b) The *bi-radial visual structure* on the relief.** The panel
+shows two radiances of equal weight: one in the sky (heavenly gloria,
+marker #6) and one *in the earth* at Czeczek's feet (marker #11). The
+Marian apparition literature is overwhelmingly *celestial* — Mary
+descends from heaven, appears in the sky, is framed by clouds.
+Ground-emergent imagery is much rarer (some statue-discovery
+narratives have it implicitly; few have it carved with equal weight).
+The Gidle relief, made within two generations of the event by people
+working from local memory, *insists on* the ground-emergent reading.
+If this insistence is real and not just artistic convention (which
+§9.5 below will not assume), it points to something the Marian-
+apparition literature is poorly positioned to handle.
+
+**(c) The *uniformly-Marian theological coding* despite mixed-valence
+phenomena.** Not all of the §5 catalogue is positive: blindness,
+paralysis, the Pławno *Image of Death*, the broken-bone exit-sign,
+the *infernal-fire* index class. The Marian-apparition literature
+tends to filter to positive cases (Mary as merciful intercessor); the
+modern anomaly literature is more comfortable with mixed-valence
+reports. The Gidle texts theologise the negative phenomena (blindness
+as punishment for hesitation, the *Image of Death* as warning, etc.),
+but the phenomena themselves are reported in detail — a register
+closer to the modern anomaly literature than to the apparition
+literature in this respect.
+
+### 9.5 What this comparison can and cannot show
+
+**It can show:** that the Gidle record sits at an intersection of two
+comparative literatures, sharing structural features with both. This
+is not nothing — it suggests that the case is **not best understood as
+sui generis**, and that the kinds of phenomena recorded in Zagajowski
+are part of a recurring class of human-recorded encounters whose
+features persist across centuries and cultures, however that class is
+ultimately to be explained.
+
+**It can show:** that Pasulka's central methodological move — bracket
+the metaphysics, study the encounter and the religious technology
+around it — works on a 17th-century Polish case as well as on
+contemporary American ones. The same questions can be asked, the same
+patterns surface. That is a methodological corroboration of her
+approach, contributed by a case she does not herself treat.
+
+**It can show:** that the **object-centrism** and the **bi-radial
+visual structure** of the Gidle relief are features that *neither*
+comparative literature handles well — a candidate "distinctive
+signature" of this case that future comparative work could test
+against other less-studied object-discovery sanctuaries (the larger
+Black Madonna tradition, the *Vera Icona* tradition, the Italian
+*Madonna scoperta* class).
+
+**It cannot show** — and §10 (Open questions) does not propose to
+test — any of the following: that the 1516 event was caused by
+non-human intelligence; that the figurine is "technology" in any
+modern sense; that the Pławno figure was a Grey, an angel, a
+hallucination, or anything else; that the fragrant dust was isotopically
+anomalous; that any specific metaphysical account of "the phenomenon"
+is correct. These questions are either currently unanswerable or
+outside the remit of what 17th-century sworn affidavits and a
+17th-century narrative relief can speak to. Pasulka herself is
+consistently careful about this; this document is too.
+
+**The integrative claim**, then, is the modest one: the comparative
+literatures sharpen our reading of the Gidle record, and the Gidle
+record extends and tests the comparative literatures. That mutual
+sharpening is the only thing §9 is trying to do.
+
+### 9.6 A note on what the comparison is *for*
+
+The reason to do this comparative work at all — rather than leave
+Gidle inside the purely-Catholic devotional literature where the
+sanctuary itself is comfortable to keep it — is that the comparative
+literatures *notice features the devotional literature has stopped
+seeing*. The modern Dominican Gidle pages describe the figurine, the
+discovery, and the miracles in registers that have, over four
+centuries, smoothed out exactly the phenomenological grain that this
+document has spent §§3–5 trying to recover. Pasulka, Vallée, Christian,
+Blackbourn — different in many ways from each other — share the
+ability to see and name *the specific phenomenology* the devotional
+register often dissolves into pious abstraction. That re-acquisition of
+phenomenological grain is what the comparative reading earns; it is
+what makes §§3 and 5 of this document possible to write in their
+current detail in the first place.
+
+## 10. Open questions
 
 1. Material analysis of the figurine (stone vs. mammoth bone vs. other);
    art-historical comparison with medieval Marian statuettes.
@@ -709,6 +1143,24 @@ rather than competing:
    is so degraded that systematic anomaly mining is impossible on the
    body text, even though we know from Torenc 2010 that ~75 unique
    narratives there are not in Trebnic or Zagajowski.
+8. **Identify the specific Gidle sanctuary building depicted in the
+   right-bottom vignette of the panel** (the multi-windowed nave with
+   cross-topped sacristy spire and adjacent pillar tower — see
+   [`panel-crop-right.jpg`](../IMG/annotated/panel-crop-right.jpg) and
+   marker #13 in §3.1). On internal evidence — silhouette, the pillar
+   tower (#12) carved at its flank, and the workshop's overall
+   four-temporal-layers reading of the panel — the most economical
+   identification is the **intermediate Gidle sanctuary**, either
+   Marcin Gidzielski's larger wooden chapel or Anna Dąbrowska's
+   pre-Dominican brick chapel (i.e. the building the present basilica
+   was actively replacing as the antependium was being carved).
+   Independent cross-reference would require a 17th-c. plan, drawing,
+   visitation record, or written description of that intermediate
+   building's silhouette — first stops: Cholewiński 2015 (he worked
+   from the Dominican Archive in Kraków and may cite such material in
+   apparatus footnotes), Świętochowski 1966 (typescript in the
+   Dominican Archive Kraków), and any *acta visitationum* of the
+   Wieluń/Sieradz deanery between c. 1605 and c. 1655.
 
 ## Visiting BJ (Biblioteka Jagiellońska) — practical note
 
@@ -813,3 +1265,69 @@ non-digital sources.
   Matki Boskiej Gidelskiej”*, Kraków 1966 — typescript in the Dominican
   Archive in Kraków; key 20th-c. internal reconstruction of the sanctuary's
   building history.
+
+## Comparative literature (§9)
+
+Not local-archived (general-circulation academic and trade titles).
+Cited in the comparative-reading section §9 to anchor the
+Marian-apparition and anomalous-encounter strands.
+
+### Marian-apparition / vision-historical studies
+
+- **William A. Christian Jr**, *Apparitions in Late Medieval and
+  Renaissance Spain* (Princeton: Princeton UP, 1981) — the
+  foundational social-historical study, methodologically scrupulous.
+- **William A. Christian Jr**, *Visionaries: The Spanish Republic and
+  the Reign of Christ* (Berkeley: California UP, 1996) — apparition
+  clusters in 1930s Spain, with strong attention to community
+  formation.
+- **Marina Warner**, *Alone of All Her Sex: The Myth and the Cult of
+  the Virgin Mary* (New York: Knopf, 1976) — wide-arc cultural history
+  of Marian iconography and devotion, including apparition material.
+- **Sandra L. Zimdars-Swartz**, *Encountering Mary: From La Salette to
+  Medjugorje* (Princeton: Princeton UP, 1991) — close phenomenological
+  reading of major 19th–20th-c. apparition cycles.
+- **David Blackbourn**, *Marpingen: Apparitions of the Virgin Mary in
+  Bismarckian Germany* (New York: Knopf, 1994) — the closest published
+  parallel methodologically to what this document is trying to do for
+  Gidle: a small village, mixed-valence reports, cult formation under
+  state and ecclesiastical pressure.
+
+### Anomalous-encounter / "the phenomenon" studies
+
+- **Jacques Vallée**, *Passport to Magonia: From Folklore to Flying
+  Saucers* (Chicago: Henry Regnery, 1969) — the seminal text drawing
+  the comparative parallel between modern UAP reports and folkloric
+  / religious encounter material.
+- **Jacques Vallée**, *Dimensions: A Casebook of Alien Contact*
+  (Chicago: Contemporary Books, 1988) — case-by-case phenomenological
+  catalogue.
+- **J. Allen Hynek**, *The UFO Experience: A Scientific Inquiry*
+  (Chicago: Henry Regnery, 1972) — the CE-1/CE-2/CE-3 typology used
+  in §9.3.
+- **John A. Keel**, *The Mothman Prophecies* (New York: Saturday
+  Review Press, 1975) — long-form report on the 1966–1967 Point
+  Pleasant cluster; useful for predictive-warning phenomenology.
+- **D. W. Pasulka**, *Heaven Can Wait: Purgatory in Catholic Devotional
+  and Popular Culture* (New York: Oxford UP, 2014) — her
+  religious-studies background work, relevant for showing the
+  continuity of method between her Catholic and her "phenomenon"
+  scholarship.
+- **D. W. Pasulka**, *American Cosmic: UFOs, Religion, Technology*
+  (New York: Oxford UP, 2019) — the central comparative reference
+  for this document's §9; in particular ch. 3 ("Hacking Heaven") on
+  anomalous-materials accounts.
+- **D. W. Pasulka**, *Encounters: Experiences with Nonhuman
+  Intelligences* (New York: St. Martin's Essentials, 2023) — extends
+  the *American Cosmic* framework to a wider experiencer sample.
+- **The Sol Foundation for Advanced Scientific and Policy Research**
+  (co-founded 15 August 2023 by Garry Nolan, Stanford Medical School
+  pathology professor, and Peter Skafish, sociocultural anthropologist;
+  Diana Pasulka is a board member). Inaugural symposium at Stanford
+  17–18 November 2023. Whitepapers, conference proceedings, and policy
+  briefings at <https://thesolfoundation.org/>; the most active
+  current academic venue for serious UAP studies.
+- **NASA UAP Independent Study Team**, *Report of the NASA UAP
+  Independent Study Team* (Washington: NASA, 14 Sept. 2023), David
+  Spergel (chair) — institutional baseline for the current
+  legitimacy of the topic in scientific discourse.
