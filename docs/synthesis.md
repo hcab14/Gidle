@@ -39,6 +39,33 @@ hollowed into the shape of a chalice; and around that stone and image a
 very mild and pleasant brightness.”* Frightened by the brightness, he too
 knelt.
 
+### About the name "Czeczek"
+
+The Polish onomastic dictionaries (PAN *Internetowy słownik nazwisk*; A.
+Brückner's *Słownik etymologiczny*) treat *Czeczek* as a nickname-based
+diminutive surname with several plausible roots, all consistent with a
+16th-c. peasant's *przezwisko* (informal/by-name rather than heraldic
+family name):
+
+- from **czeczotka**, a small finch (linnet / redpoll), whose name is
+  pan-Slavic onomatopoeia for chirping; the same word also names a
+  patterned birch wood used in fine veneer. *„Little finch”* / *„Czeczotka
+  boy”*;
+- from **czeczot** = "talkative person, chatterer" (old Polish *Słownik
+  Gwar Polskich*);
+- from **czeczę** = "puppy" (endearment, *„little pup”*);
+- a diminutive of the personal name **Czecz / Czesław / Czech** ("Bohemian");
+- or — less likely — from **czencz** related to *cięty* "sharp, cut".
+
+In 1516, peasant naming in Poland was highly fluid: many *kmiecie* had
+only a Christian name plus a familiar *przezwisko*, no fixed surname.
+Calling the discoverer *Jan Czeczek* — "Jan the Little Finch" or "Jan the
+Chatterer" — is exactly what we would expect for a free villein on a
+*kmiecie* tenement in the Sieradz voivodship. So **the name actively
+*supports* the "real farmer" identification** rather than complicating it.
+Trebnic 1636 and every later source consistently calls him *kmieć* /
+*kmiotek*.
+
 A few details worth noting against the modernized retellings:
 
 - Trebnic's 1636 brightness is **mild and pleasant** (*„barzo miła i
@@ -175,6 +202,17 @@ right-hand cartouche frames the eruptive earth.
    to the right. This depicts not the modest 1516–1615 wooden chapels but
    the **present** baroque conventual church — which means the panel is
    advertising the architectural fact of the cult, not its origin.
+16. **A tall gilded cylinder between donor and prior** (see
+    [`panel-crop-donor-cylinder.jpg`](../IMG/annotated/panel-crop-donor-cylinder.jpg)).
+    Pale and metallic-looking, narrower than a body, with a tiered top
+    and slightly flared base — exactly the silhouette of either (a) a
+    **gilded liturgical chalice / ciborium** being handed over with the
+    foundation, or (b) a **cylindrical document-case (tubus)** holding
+    the foundation charter. Either reading is iconographically standard
+    for Polish lay-to-monastic donation scenes. The chalice reading is
+    especially attractive because it would create a deliberate **visual
+    rhyme** with the *chalice-shaped stone* of the discovery legend: the
+    nobles hand over the chalice of the cult to the friars.
 
 **Top register — the heavenly sanction**
 
@@ -182,18 +220,24 @@ right-hand cartouche frames the eruptive earth.
    Baroque carved-cloud convention but unusually vigorous here, almost
    vortical. They drape the entire upper left and connect the monastery to
    the heavens.
-5. **The face in the clouds is *not* God the Father.** Close inspection
-   (see the [cloud-face crop](../IMG/annotated/panel-crop-cloud-face.jpg))
-   shows a small round face with **puffed cheeks** and pursed mouth —
-   the classical Baroque iconography of a **wind / breath personification**
-   (the *aer*, *spiritus*, *flatus Dei*). It sits inside its own rocaille
-   medallion at the upper-left of the central cartouche, *directed toward
-   the discovery scene*. Read literally: a divine breath blows from the
-   sky toward the field where Czeczek is plowing. This is a striking
-   choice over the standard bearded-Father-with-orb iconography that would
-   have been the default for a Marian discovery scene; it points to either
-   *Spiritus Domini* / Pentecost imagery, or — more provocatively — a
-   memory of *wind* as a phenomenological element of the event.
+5. **Sun face in the left cartouche.** Close inspection (see the
+   [cloud-face crop](../IMG/annotated/panel-crop-cloud-face.jpg)) shows
+   a small round placid face in a circular medallion at the upper-left of
+   the central cartouche. *(Earlier reading correction: I previously read
+   this as a wind / breath personification because of what looked like
+   puffed cheeks. With the right counterpart (#15) now identified, the
+   correct reading is **Sol** — the Sun.)* Together with the moon at
+   marker #15 it forms the classic **sun + moon flanking the Madonna**
+   per Revelation 12:1, *„mulier amicta sole, et luna sub pedibus eius”*
+   — the *Mulier Amicta Sole* / Apocalyptic Woman, an iconography
+   particularly proper to a basilica dedicated to **Wniebowzięcie NMP
+   (the Assumption)**.
+15. **Crescent moon in the right cartouche** (mirror of #5; see
+    [`panel-crop-moon.jpg`](../IMG/annotated/panel-crop-moon.jpg)). The
+    rocaille C-scrolls in the upper-right of the right cartouche resolve
+    into a clearly carved **crescent silhouette** (opening down-left) once
+    you know to look for it. Less prominent than the sun face but
+    iconographically essential to the *mulier amicta sole* reading.
 6. **The central gloria.** Two large flying putti, draped, hold a
    **golden royal crown** above a deep-blue oval with gilt sunburst rays
    in which the **dark figurine of Mary with the Child** is visible.
@@ -202,13 +246,12 @@ right-hand cartouche frames the eruptive earth.
    coronation; it is a devotional rather than a historical statement. The
    small dark figure inside the gloria is recognisably the *real Gidle
    figurine*, brownish-dark in colour as it appears today.
-7. **The witness figure below the gloria.** A bareheaded male figure
-   (third putto? or layman?) emerges from below, his head and torso
-   visible, looking up and pointing toward the gloria. His body provides
-   the visual *bridge* between earthly discovery (down) and heavenly
-   approval (up). I read him as a deliberate ambiguous link — either the
-   third heavenly attendant or an idealised Czeczek-witness; the artist
-   exploits the ambiguity.
+7. **Third putto below the gloria.** A bareheaded figure with head and
+   bare torso visible, looking up and gesturing toward the gloria. I had
+   read him as a possibly-human "witness", but his bare chest and the
+   way he integrates into the central group make him almost certainly a
+   third putto / cherub attached to the gloria. He bridges the earthly
+   discovery (down) and the heavenly coronation (up) compositionally.
 
 **Right register — the discovery**
 
@@ -253,6 +296,20 @@ right-hand cartouche frames the eruptive earth.
     decorative vocabulary (rocaille, drapery) to evoke a *literal* sense
     of earth opening up. It is the iconographic counterpart to marker
     #11's ground-burst: the *earth itself is active in the scene*.
+17. **A small axe (*siekierka*) on the ground next to Czeczek's
+    discarded cap** (see [`panel-crop-axe.jpg`](../IMG/annotated/panel-crop-axe.jpg)).
+    Unmistakably a hand-axe with a short handle and curved blade, laid
+    flat on the soil next to his soft cap. Two readings, not exclusive:
+    *(a)* a Polish *kmieć* would routinely carry a small axe as a multi-
+    tool (for clearing brush, splitting firewood, dispatching small
+    game), so the axe places Czeczek's labour in concrete tools rather
+    than abstract "farming"; *(b)* in old Slavic and folk-Catholic
+    culture, the axe was a **protective / apotropaic object** (against
+    lightning, demons, the unclean) — sometimes a *święcona siekiera*
+    (blessed axe). The hat + axe pair on the ground reads visually as
+    Czeczek **setting down his social marker (hat) and his power-object
+    (axe)** before the phenomenon — a deliberate *exuviation* before the
+    holy that the texts do not mention.
 
 ### 3.2 What the panel preserves that the texts downplay
 
@@ -261,11 +318,12 @@ Compared with the moralized written tradition, the panel is unusually
 
 | Element | Trebnic 1636 (text) | The panel (image) |
 | --- | --- | --- |
-| Light source | Brightness *around stone and image* | **Two** radiances: one in the sky (heavenly gloria), one **in the earth** at Czeczek's feet |
+| Light source | Brightness *around stone and image* | **Two** radiances: one in the sky (heavenly gloria), one **in the earth** at Czeczek's feet — *bi-radial* |
 | Earth | Inert ground that holds the stone | Eruptive, layered, cavernous — given a register of its own |
 | Animals | Stopped, knelt | Knelt — same |
-| Divine agent | Implicit (the Balaam frame) | **Wind/breath face** in its own medallion, directed at the scene |
-| Time | Single event | Four temporal layers folded together (discovery → pillar chapel → larger chapel → present basilica) |
+| Tools | (not mentioned) | Czeczek's **hat and small axe lie discarded** on the ground next to him (#17) — visual *exuviation* before the holy |
+| Divine framing | Biblical (Balaam) | Standard *mulier amicta sole* (sun + moon, Rev 12:1) per the basilica's Assumption dedication |
+| Time | Single event | **Four temporal layers** folded together (discovery → pillar chapel → larger chapel → present basilica) |
 
 In other words: the workshop that carved the antependium between c. 1651
 and c. 1670 — working barely two generations after the original 1636
@@ -303,15 +361,23 @@ elements line up:
   effect (as in some animal-encounter reports) is also consistent with
   what the text describes. The panel reinforces this: the oxen are
   carved *kneeling, not bolting*.
-- **A wind/breath element.** The cloud-face on the panel (marker #5) is a
-  puffing wind personification, not God the Father — that is, the
-  workshop chose to add a *wind-of-God* / *spiritus* dimension to the
-  event that the texts do not explicitly mention. This is the closest
-  thing in the visual record to a “field effect.”
-- **Multi-modal event** — a ground-emergent phenomenon plus a
-  radiant/aerial response, plus an air/wind component. The relief
-  visually preserves this layering more strongly than any of the written
-  sources.
+- **Discarded tools.** The hand-axe and cap at Czeczek's feet (panel
+  marker #17) carry the *exuviation-before-the-holy* motif that recurs
+  in encounter literature: the witness sets down both the social marker
+  (hat) and the power-object (axe) before the phenomenon. This is the
+  panel's visual amplification of Trebnic's plain "*pokłoniwszy się
+  wziął go*" — kneeling and taking the figurine.
+- **Standard celestial framing (sun + moon, Apocalyptic Woman).** The
+  *mulier amicta sole* pairing at markers #5 and #15 is iconographically
+  conventional, not anomalous; it expresses the proper Marian theology
+  of the Assumption-dedicated basilica. Worth distinguishing from the
+  more unusual *bi-radial* structure (markers #6 and #11) which is the
+  real phenomenological signature.
+- **Multi-modal event** — a ground-emergent phenomenon (radiance from
+  the earth) plus a radiant/aerial response (heavenly gloria), plus
+  paralysed animals plus discarded tools plus a witness brought to his
+  knees. The relief visually preserves this layering more strongly than
+  any of the written sources.
 
 ## 5. The core hypothesis
 
@@ -383,10 +449,10 @@ rather than competing:
    chalice-shaped stone still in situ?
 3. Close reading of the **Trebnic 1636** original (held at the Biblioteka
    Jagiellońska St. Dr. department, not yet digitized — a scan-on-demand
-   request to BJ is the obvious next step) and full transcription of the
-   discovery passage in **Tomasz z Pilzna 1645** (downloaded but with
-   poor OCR on the body text — would benefit from a manual transcription
-   of pages 1–15 of the 141-page DjVu).
+   request to BJ is the obvious next step; see *Visiting BJ* note below)
+   and full transcription of the discovery passage in **Tomasz z Pilzna
+   1645** (downloaded but with poor OCR on the body text — would benefit
+   from a manual transcription of pages 1–15 of the 141-page DjVu).
 4. Where exactly the antependium sat between 1670 and today; whether the
    user-recalled “from the ceiling of an older church” reflects an
    intermediate relocation, a guide’s mistake, or a second panel we have
@@ -394,6 +460,40 @@ rather than competing:
 5. Systematic comparison of this relief with other narrative reliefs from
    the same Dominican workshop tradition — is the earth-emergent
    treatment really unusual?
+
+## Visiting BJ (Biblioteka Jagiellońska) — practical note
+
+The 1636 Trebnic imprint is held physically at the **Sekcja Starych
+Druków** (Old Prints Section) of the Biblioteka Jagiellońska, Kraków.
+For a researcher who can visit in person:
+
+- **Catalogue**: search BJ's [explorUJ](https://bj.uj.edu.pl/pl_PL/katalogi/katalog-bibliotek-uj)
+  *and* the [Katalog druków do 1949 r.](https://bj.uj.edu.pl/pl_PL/katalogi/katalog-drukow-do-1949) (the old card catalogue, digitised).
+  The 1636 imprint is **anonymous**: search by title (*„Historya o
+  cudownym obrazie”*) and/or printer (*„Andrzejowczyk”* / *„Andrzeiowczyk”*)
+  and/or year 1636. As a known nearby shelfmark, **Tomasz z Pilzna 1645**
+  is BJ St. Dr. **585425 I** — Trebnic 1636 is likely in a neighbouring
+  range.
+- **Bibliographic anchor**: Estreicher, *Bibliografia polska*, t. **XXXI,
+  p. 292** has the canonical entry; the imprint is *„Kraków, w Drukarni
+  Macieia Andrzeiowczyka, 1636”*; *„Pisana przez iednego z Braciey tegoż
+  Zakonu, za rozkazaniem Starszych Roku P. 1635”*.
+- **Reading-room request**: the BJ reading-room policy for old prints
+  allows in-person consultation by appointment; photography is normally
+  permitted for personal-research use (rules occasionally change — check
+  on the day). For most pre-1800 imprints the BJ also offers a paid
+  scan-on-demand service (`oinka@uj.edu.pl`, tel. **+48 12 663 3444**,
+  Sekcja Informacji Naukowej).
+- **What to capture**: the **title page** (for the exact imprint and any
+  woodcut/engraving), the **dedication and preface** (for any author
+  hints), and the **discovery narrative chapter** (probably the first
+  named chapter — the parallel in Tomasz z Pilzna 1645 falls on pp. 1–15
+  of the 141-page DjVu, so similar early-text placement is likely).
+
+If you are able to scan the 1636 imprint, drop the files into
+`docs/references/trebnic-1636-historya-o-cudownym-obrazie/` and the
+existing Git-LFS rules will pick them up automatically — see
+[`references/README.md`](./references/README.md) for the convention.
 
 ## Primary sources
 
