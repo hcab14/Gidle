@@ -345,9 +345,9 @@ In other words: the workshop that carved the antependium between c. 1651
 and c. 1670 — working barely two generations after the original 1636
 written tradition, and probably with access to local oral memory the
 written tradition had already begun to flatten — chose to keep the
-*ground-level radiance*, the *active earth*, and the *wind* visible in a
-way that no later text emphasizes. That is the part of the relief most
-worth keeping in view.
+*ground-level radiance*, the *active earth*, and Czeczek's *discarded
+hat and axe* visible in a way that no later text emphasizes. That is
+the part of the relief most worth keeping in view.
 
 ## 4. A phenomenological / Pasulka-style reading
 
@@ -870,14 +870,36 @@ comparative work on Marian apparitions). The point of doing this is
   available. Used carefully, this lets us ask *which features of the
   Gidle record are distinctive and which are common to a broader
   class* — a sharper question than "is Gidle 'true'?"
-- **What the frame does *not* license.** It does not license:
-  identifying Gidle as a "UFO event"; identifying the figurine as
-  "technology of non-human intelligence"; reading the Pławno
-  translucent figure as "a Grey"; reading the Bartolomeus dust as
-  "exotic isotopic material." Such mappings would substitute a
-  modern mythological vocabulary for a 17th-century one — gaining
-  nothing in precision and losing the specific shape of the actual
-  record. §9 will resist all such mappings explicitly.
+- **What the frame *does* license — strong structural similarities,
+  carefully named.** The frame does license observing — and §9 will
+  observe — that several Gidle features hold *very tight structural
+  parallels* to recurring patterns in the contemporary anomalous-
+  encounter literature: the recurring nocturnal multi-witness lights
+  at the church (§5.1) sit in the same phenomenological family as
+  catalogued nocturnal-luminous-orb reports; the Pławno 1662 daylight
+  translucent figure with verified predictive content (§5.2) shares
+  structural features with daylight close-encounter reports of
+  translucent intelligent entities; the Bartolomeus Plebani sworn
+  deposition on the figurine's *fragrant-dust-on-fire* anomaly (§5.4)
+  reads almost word-for-word like contemporary "anomalous materials"
+  reports in which an artefact behaves in ways that surprise the
+  witness's own domain expert. These are *real* structural matches,
+  not loose analogies, and the document does not need to soften them.
+- **What the frame does *not* license — metaphysical mappings.** What
+  the frame does *not* license is the further move of importing the
+  *causal/ontological* vocabulary of any specific modern theory
+  *back into* the Gidle case: identifying Gidle as "a UFO event";
+  identifying the figurine as "technology of non-human intelligence";
+  reading the Pławno figure as "a Grey"; calling the Bartolomeus
+  dust "exotic isotopic material." These would substitute a modern
+  mythological vocabulary for a 17th-century one — gaining no real
+  precision (we do not have the spectroscopy, the radar trace, or
+  the entity-typology data that would *earn* such language) and
+  losing the specific shape of what the sources actually preserve.
+  The distinction the document is keeping is between **structural
+  pattern-matching** (licensed, often very strong) and **causal /
+  ontological identification** (not licensed by sworn affidavits and
+  a carved relief alone).
 - **The integrity test.** A reader who rejects the entire
   contemporary UAP/NHI literature should still be able to read §§
   1–8 of this document without objection, and should find §9
@@ -1122,10 +1144,20 @@ current detail in the first place.
    and full transcription of the discovery passage in **Tomasz z Pilzna
    1645** (downloaded but with poor OCR on the body text — would benefit
    from a manual transcription of pages 1–15 of the 141-page DjVu).
-4. Where exactly the antependium sat between 1670 and today; whether the
-   user-recalled “from the ceiling of an older church” reflects an
-   intermediate relocation, a guide’s mistake, or a second panel we have
-   not yet documented.
+4. Where exactly the panel/antependium has sat between c. 1670 and
+   today. The Dominicans' current page describes it as a *dawne
+   antepedium* (former antependium) now mounted on a wall of the
+   chapel. A visitor recollection of the friar's description suggested
+   the panel might at some point have been mounted in the ceiling of
+   an earlier church — but the recollection is held with low
+   confidence (the language of the visit was Polish, the recollection
+   second-hand and translated), and may equally well reflect a
+   misunderstanding, a translation slip, or a different panel
+   altogether. The documented question therefore reduces to: is there
+   any record (in Cholewiński 2015's apparatus, in Świętochowski 1966,
+   or in the Dominican Archive Kraków) of intermediate relocations of
+   this specific panel between its mid-17th-c. carving and its
+   present wall-mounting?
 5. Systematic comparison of this relief with other narrative reliefs from
    the same Dominican workshop tradition — is the earth-emergent
    treatment really unusual?
@@ -1292,6 +1324,14 @@ Marian-apparition and anomalous-encounter strands.
   parallel methodologically to what this document is trying to do for
   Gidle: a small village, mixed-valence reports, cult formation under
   state and ecclesiastical pressure.
+- **Ingo Swann**, *The Great Apparitions of Mary: An Examination of the
+  Twenty-two Supranormal Appearances* (New York: Crossroad, 1996) — an
+  unusual bridge text: written by the developer of *coordinate remote
+  viewing* for the US government's Stargate program, it reads the
+  major Marian apparition cycles through a parapsychology-and-anomaly
+  lens. Useful as a methodological precursor to Pasulka's later
+  approach (treat the apparitions phenomenologically, bracket the
+  metaphysics) by a writer with a very different starting point.
 
 ### Anomalous-encounter / "the phenomenon" studies
 
@@ -1310,13 +1350,28 @@ Marian-apparition and anomalous-encounter strands.
   Pleasant cluster; useful for predictive-warning phenomenology.
 - **D. W. Pasulka**, *Heaven Can Wait: Purgatory in Catholic Devotional
   and Popular Culture* (New York: Oxford UP, 2014) — her
-  religious-studies background work, relevant for showing the
-  continuity of method between her Catholic and her "phenomenon"
-  scholarship.
+  religious-studies background work, methodologically central for the
+  comparative move in §9 because it treats Catholic
+  afterlife geography (**purgatory, limbo, heaven, hell**) as
+  *material* and *spatial* — places with localisable contact-points
+  on Earth, mediated by physical objects, texts, and rituals, rather
+  than as purely abstract theological loci. The book's chapter on
+  limbo (and Pasulka's shorter OUPblog essay "Representations of
+  purgatory and limbo in popular culture", 2014–2015) is particularly
+  relevant for the Gidle case: limbo, like the hollow stone, is a
+  liminal-edge space (Latin *limbus* = "edge") where the boundary
+  between this world and another is understood to be unusually thin.
+  The same conceptual move — treat the contact-point as material and
+  studiable — runs through *Heaven Can Wait*, *American Cosmic*, and
+  *Encounters* as a single methodological line.
 - **D. W. Pasulka**, *American Cosmic: UFOs, Religion, Technology*
   (New York: Oxford UP, 2019) — the central comparative reference
-  for this document's §9; in particular ch. 3 ("Hacking Heaven") on
-  anomalous-materials accounts.
+  for this document's §9; in particular the **Conclusion ("The
+  Artifact")** and **ch. 5 ("The Material Code")** on
+  anomalous-materials accounts; **ch. 7 ("Suspended in Space:
+  Levitating, Bilocating Saints…")** is also directly relevant for
+  the comparison between Catholic apparition phenomenology and
+  contemporary anomalous-encounter reports.
 - **D. W. Pasulka**, *Encounters: Experiences with Nonhuman
   Intelligences* (New York: St. Martin's Essentials, 2023) — extends
   the *American Cosmic* framework to a wider experiencer sample.
