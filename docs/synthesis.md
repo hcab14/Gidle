@@ -286,16 +286,32 @@ right-hand cartouche frames the eruptive earth.
     contains **three successive sanctuary buildings** (pillar → chapel →
     basilica) and the **pre-sanctuary discovery moment** — four temporal
     layers folded into one image.
-14. **The “underground” / eruptive zone.** The bottom-right corner is
-    given over to dense, swirling, layered carved drapery that reads
-    simultaneously as **(a)** rocaille shellwork (a standard Baroque
-    cartouche flourish), **(b)** rolling clouds/earth, and **(c)** a
-    cavernous interior with a small figure peering out of a ribbed
-    opening that looks like a shell or a furrow. The triple reading is
-    almost certainly deliberate: the workshop used the available
-    decorative vocabulary (rocaille, drapery) to evoke a *literal* sense
-    of earth opening up. It is the iconographic counterpart to marker
-    #11's ground-burst: the *earth itself is active in the scene*.
+14. **The right-bottom secondary vignette: church, bridge, and pilgrim.**
+    The bottom-right corner is a **discrete topographic scene of the
+    Gidle sanctuary in its landscape** — not the literal "underground"
+    register I previously read it as. Re-read carefully (see
+    [`panel-crop-right.jpg`](../IMG/annotated/panel-crop-right.jpg)) it
+    contains: the **actual Gidle church building** (multi-windowed nave,
+    sacristy with cross-topped spire, separate pillar tower at left
+    edge of the vignette — marker #12); a rolling **wooded hillscape**;
+    and at the lower edge, **a small figure crossing what is clearly an
+    arched stone bridge over wavy water**. What I had earlier read as a
+    "ribbed cave-mouth" is the **underside of the bridge arch**; the
+    fan-pattern below it is the river/stream the bridge crosses. The
+    rocaille flourishes still serve the cartouche function on the
+    panel's outer edge, but the *narrative* content of this corner is a
+    surface-level pilgrim-approach scene, not a subterranean one.
+
+    Even on this more sober reading, the vignette is **iconographically
+    interesting**: of all the local landscape elements the workshop
+    could have chosen to depict next to the church, they chose **a
+    bridge over water with a single figure on it**. That is not
+    inevitable. Given how heavily the cult's miracle records weigh the
+    *water/depths-rescue* categories — drownings, well-falls, bridge-
+    accidents (see §5.3 below) — it is hard not to see the vignette as
+    *also* an iconographic echo of those rescue narratives, with the
+    sanctuary visible above as the source of help. But: that echo is a
+    secondary resonance, not the literal subject.
 17. **A small axe (*siekierka*) on the ground next to Czeczek's
     discarded cap** (see [`panel-crop-axe.jpg`](../IMG/annotated/panel-crop-axe.jpg)).
     Unmistakably a hand-axe with a short handle and curved blade, laid
@@ -319,7 +335,7 @@ Compared with the moralized written tradition, the panel is unusually
 | Element | Trebnic 1636 (text) | The panel (image) |
 | --- | --- | --- |
 | Light source | Brightness *around stone and image* | **Two** radiances: one in the sky (heavenly gloria), one **in the earth** at Czeczek's feet — *bi-radial* |
-| Earth | Inert ground that holds the stone | Eruptive, layered, cavernous — given a register of its own |
+| Earth | Inert ground that holds the stone | Eruptive **at Czeczek's feet** (marker #11) — a ground-level radiance with the same visual weight as the heavenly gloria |
 | Animals | Stopped, knelt | Knelt — same |
 | Tools | (not mentioned) | Czeczek's **hat and small axe lie discarded** on the ground next to him (#17) — visual *exuviation* before the holy |
 | Divine framing | Biblical (Balaam) | Standard *mulier amicta sole* (sun + moon, Rev 12:1) per the basilica's Assumption dedication |
@@ -379,7 +395,224 @@ elements line up:
   knees. The relief visually preserves this layering more strongly than
   any of the written sources.
 
-## 5. The core hypothesis
+## 5. Recurring anomalies in the post-1516 Gidle cult
+
+The discovery story is one event in 1516. But the *Skarb wielki* of
+Zagajowski (1724) is the cult's own systematic catalogue — 300 numbered
+miracle records, plus a formal alphabetic index at the back — collected
+over more than two centuries by Dominican notaries working from
+witness affidavits sworn *coram notario publico* and *sub juramento*. If
+the 1516 event was a single anomalous occurrence and nothing more, the
+later record should be uniform pious healing. It is not. Read with an
+eye for phenomenological detail (not just for theological category),
+Zagajowski's book preserves a remarkably specific menagerie of recurring
+anomalies — **aerial, subterranean, luminous, energetic, and contact
+phenomena** — almost all of which the modern hagiographic literature has
+quietly let go.
+
+Page/line references below are to the OCR of the JBC scan stored at
+[`references/zagajowski-1724-skarb-wielki/`](./references/zagajowski-1724-skarb-wielki/);
+line numbers refer to the flat-text dump (`djvutxt` output, 8250 lines).
+
+### 5.1 Recurring anomalous lights at the church
+
+Zagajowski's **formal index** lists this as a class of phenomena, not as
+a single event (line 7563):
+
+> *„Światłość cudowna, y ogień w Kościele Gidelskim widziane w nocy
+> przed Obrazem Panny Najświętszej.”*
+> ("Miraculous brightness, and fire seen at night in the Gidle Church
+> before the Image of the Most Holy Lady.")
+
+The detailed account at line 2855 (Brat. 8) describes a multi-witness,
+recurring pattern: the inhabitants of Gidle *„często widywali dziwne
+światło w nocy”* ("often saw a strange light at night") in the
+still-unfinished church; they would ring the bells and run with buckets
+*„iakoby do zagaszenia ognia”* ("as if to extinguish a fire") — but on
+arrival *„cudownie światło zniknęło, Kościół bez świetli znaleziony”*
+("the miraculous light vanished, the Church was found without any
+lights"). A specific sub-pattern was repeatedly observed: *„iakoby dwie
+świece gorące na Ołtarzu przed Obrazem”* ("as if two burning candles on
+the altar before the Image"), seen by approaching townspeople but absent
+on entry. The pattern — repeated nocturnal luminous phenomena over and
+inside a known structure, multiple witnesses, vanishing on approach,
+no source ever found — is structurally identical to the "ghost-light" /
+luminous-orb reports that dominate the modern UAP literature on
+sacred or anomalous sites.
+
+### 5.2 Daylight aerial apparitions
+
+**The riders' "bright window in the clouds" (line 3461–3469).** Several
+riders approaching Gidle saw *„między ciemnemi obłokami okno jasne w
+którym był Obraz Panny Przenajświętszej… y Anioły zrosciągnionemi
+skrzydłami, i na ostatku y Krucifix”* ("between the dark clouds, a
+bright window in which was the Image of the Most Holy Lady… and Angels
+with outstretched wings, and finally also a Crucifix"). *„Tym widzeniem
+przestraszeni z koni zsiedli, na kolana upadłszy”* ("Frightened by this
+vision they dismounted from the horses, falling on their knees"). The
+event occurred *„kilka stay od Kościoła Gidelskiego”* (a few *stay*
+≈ ~1 km from the church) and was reported publicly on arrival. A
+daylight, structured, multi-witness aerial appearance, with a
+behavioural response (involuntary dismounting and kneeling) consistent
+with what the modern literature would call a startle / awe reaction.
+
+**The luminous "small cloud" that approaches a runner (line 6985).** A
+man being pursued saw, from far off, *„jasność jakąś przeciwko biegnącą
+iak obłoczek”* ("a certain brightness running toward [him] like a small
+cloud") which, as it approached, resolved into *„Obraz Najświętszej
+Panny w promieniach”* ("the Image of the Most Holy Lady in rays").
+After he called for help and the pursuers fled, *„jasność zniknęła”*
+("the brightness vanished"). Phenomenologically: a self-luminous object
+that moves directionally through the air at the witness's eye-level,
+resolves into a recognised figure, then disappears — a textbook
+"Ball-of-Light" sequence.
+
+**The Pławno daylight figure (line 7081–7110).** On 4 July 1662, the
+townsman Król of Pławno, walking out of his house *„około południa”*
+(at about noon) toward a nearby grove, was met by *„iakaś postać na
+kształt Obrazu śmierci uformowana przeźroczysta na podobieństwo
+pajęczyny”* ("a certain figure formed in the likeness of an Image of
+Death, transparent like a spiderweb") which spoke to him intelligibly,
+prophesied the coming plague in Koniecpol and Miechów, and indicated
+that Gidle and nearby holy places would be punished too. The plague
+duly arrived in those towns. The witness was over sixty years old at
+the time of giving the affidavit, and the deposition was signed by both
+the parish commendator and the town mayor (*Burmistrz*). Daylight,
+structured, intelligent encounter; **translucent/spiderweb-like
+texture**; verifiable predictive content — a description as precise as
+any 20th-c. UAP/NHI close-encounter report.
+
+### 5.3 Subterranean / depth-rescue miracles
+
+Zagajowski's formal index lists this as **two distinct classes**:
+
+> *„Przywalona ziemią, już prawie martwa, dobyta, ofiarowana do Gidel,
+> przyszła do siebie.”* (line ~7550)
+> ("Buried by earth, already nearly dead, dug out, offered to Gidle,
+> came to herself.") — a **buried-alive → revival** class.
+
+> *„W Studnie wpadawszy, ofiarowani do Gidel, bez szwanku byli.”* (line 7561)
+> ("Those who fell into wells, having been offered to Gidle, were
+> without harm.") — a **well-rescue** class.
+
+These join the river-drowning miracles already noted in §3.1 (the
+running cluster of *„utonął… ofiarowany do Gidel… ożył”* — "drowned…
+offered to Gidle… came back to life" — entries at lines 2829, 3110,
+3120, 3580, 3746, 5580, 5966, 6451 etc.). Taken as a whole, these
+entries make depth-rescue a **distinct theological theme** of the
+Gidle cult: the recovery of bodies and lives from earth, well, and
+water, alongside (and structurally parallel to) the original 1516
+recovery of the figurine itself from the soil. The relief panel's
+right-bottom **bridge-over-water vignette** (§3.1, marker #14) is most
+plausibly read as an iconographic echo of this rescue cluster — a
+small pilgrim crossing an arched bridge with the sanctuary visible
+above — rather than as a literal underworld depiction (an earlier,
+overcommitted reading now retracted in §3.1).
+
+### 5.4 The fragrant dust from the figurine (anomalous material residue)
+
+One of the most phenomenologically striking entries in the entire book
+(line 3070–3085, deposition of Bartolomeus Plebani of Gidle, recorded
+*coram notario sub juramento*) concerns work done on the figurine
+itself. The witness — then **starszy** (elder) of the local Rosary
+Brotherhood — had taken the figurine to a goldsmith in Radomsko (one
+**Jerzy** — the same first name traditionally attached to the
+1636 *Trebnic*; almost certainly a different person) to have new silver
+crowns and clothing made. The metal filings/dust from the figurine, when
+swept onto the goldsmith's forge fire:
+
+> *„uczynił wonność wielką godzinę w domu onym, ja z Złotnikiem
+> siedzieliśmy zdumiawszy się długo, nie wiedząc skąd by była ona
+> wonność, aż Złotnik rzekł do mnie: pewnie z tego prochu ona wonność,
+> który ty wsuł[eś] [w] ogień.”*
+> ("…it produced a great fragrance for an hour in that house; I and the
+> goldsmith sat astonished for a long time, not knowing whence the
+> fragrance came, until the goldsmith said to me: surely it is from
+> that dust which you put into the fire.")
+
+The witness then admits he had already burnt the entire sample and had
+none left to give. Two adult lay witnesses, an unprotected accidental
+test, a sensation that occupied an hour, and a converging conclusion
+about its source. The literal claim is: **the material residue of the
+figurine emits a powerful, lasting fragrance when burnt.** Whatever the
+correct physical explanation (incense traces? bitumen / amber inclusion?
+something less mundane?), the cult clearly preserved the memory of an
+**exotic material property** of the discovered object. This is precisely
+the kind of detail that the Pasulka framework flags: a recovered object
+that behaves anomalously *as an object*, independently of any pious use.
+
+### 5.5 Material exit of "possessing" entities
+
+A class of exorcism narratives where the leaving "demon" takes a
+**physical, observable form** on departure. The clearest case is **Pani
+Zofia Sworska, 8 August 1641** (line 5099–5113), exorcised before the
+image. After prolonged struggle, the celebrant called the assembly to
+collective prayer, and:
+
+> *„na ten czas czart przymuszony od Najświętszej Panny bez żadnej
+> szkody muchą wyleciał.”*
+> ("…then the devil, compelled by the Most Holy Lady, **flew out as a
+> fly**, without any harm.")
+
+The Krakovian burgher **Maciej Woytowicz** (line 5354), possessed for
+half a year, was freed before the same image; *„znak tylko czart
+zostawił że mu [łaty?] złamał, na to patrzeła cała kompania
+Różancowa”* — the only sign the discharging entity left was a
+physical breakage on the man, witnessed by the **whole Rosary
+company**. **Sworska Zofia** (separate index entry, line 8029): *„czart
+w postać much wyszedł z niey”* — "the devil came out of her in the
+form of flies" (plural). The phenomenology is consistently
+material-residue-on-exit: insect form, broken object, etc.
+
+### 5.6 Index categories worth flagging in their own right
+
+The back-of-book alphabetic index (lines ~7400–8200) names several
+miracle classes whose mere existence as **classes** (not single cases)
+is informative:
+
+| Index entry | Translation | Phenomenological note |
+| --- | --- | --- |
+| *„Ogień piekielny cierpiący… zdrów został”* | Infernal-fire sufferers cured | Almost certainly **ergotism / St Anthony's fire** — recurrent regional epidemics involving burning sensation, convulsions, gangrene |
+| *„Paraliżem zarażony… ozdrawiał”* | Paralysed ones healed | A formal paralysis class |
+| *„Ślepota uciekających się do Gidel zleczona”* | Blindness of those fleeing to Gidle cured | The same effect Czeczek's family suffered after the discovery |
+| *„Szpada nie ima się tego, który się do Gidel uciekał”* | The sword does not touch one who has fled to Gidle | A formal **invulnerability-to-weapons** class |
+| *„Udawieni do Gidel się ofiarując… ratunku doznali”* | Strangled ones who vowed to Gidle… were rescued | A formal strangulation-rescue class |
+| *„Szaleństwo cierpiący… do zdrowia przyszli”* | Madness sufferers came to health | Mental/possession overlap class |
+| *„Powietrze morowe… uwolnieni”* | Liberated from plague-air | Multiple plague-cycle deliverance entries (1641 Przeworsk, 1662 Pławno, etc.) |
+
+### 5.7 What this body of evidence supports
+
+None of these reports, in isolation, **proves** anything beyond the
+sincerity of the witnesses and the cultural framework in which they
+spoke. Taken collectively, however, they form a much sharper picture
+than the modern devotional literature offers:
+
+- The Gidle cult does **not** centre on a single 1516 event filtered
+  through later piety. It centres on a **persistent class of phenomena**
+  — recurring nocturnal lights, daylight aerial figures, depth
+  rescues, exotic material effects, and bodily anomalies — anchored on
+  the place, the figurine, and the wash-water as material vectors.
+- The phenomenology is consistently **multi-modal**: luminous + aerial,
+  luminous + olfactory, contact + healing, exorcism + material residue.
+  This is the same multi-modality pattern Pasulka identifies in
+  contemporary anomalous-encounter reports.
+- The objects (figurine, possibly the chalice-stone) **carry the
+  phenomena across centuries**. The cult records repeatedly attribute
+  events not to abstract grace but to *the image* — its presence,
+  contact with it, dust from it, water that touched it, paper copies of
+  it, distance from it.
+- The phenomena are **not all positive-valence**: blindness, paralysis,
+  the Pławno *Image of Death*, the broken-bone exit-sign of the
+  Woytowicz exorcism. The cult reads them sacrally, but the bare
+  reports describe energetic and intrusive effects.
+
+This is the empirical bridge between the §1 discovery story and the §6
+core hypothesis: not a leap of speculation, but a 207-year written
+record (Trebnic 1636 → Pilzna 1645 → Zagajowski 1724) of structurally
+similar phenomena clustering around a small dark figurine and the
+hollow stone it was found in.
+
+## 6. The core hypothesis
 
 The two angles — anomalous event **and** very old objects — fit together
 rather than competing:
@@ -395,7 +628,7 @@ rather than competing:
 > relief preserved the visual sense of an active, multi-modal event most
 > strongly of all.
 
-## 6. Supporting context
+## 7. Supporting context
 
 - **Earth-cult substrate.** Pre-Christian Europe (Slavic *Mokosh / Mat
   Zemlya*, Germanic *Nerthus*) treated the earth as a living sacred force.
@@ -420,7 +653,7 @@ rather than competing:
   with reported *Wunderzeichen*, providing the cultural frame within
   which the Gidle discovery was interpreted.
 
-## 7. What is observation, what is interpretation
+## 8. What is observation, what is interpretation
 
 - **Observation (textual + visual sources):** plowing → animal reaction
   (oxen kneeling) → brightness around stone and image (Trebnica 1636) /
@@ -428,8 +661,10 @@ rather than competing:
   stone → blindness in the family → light and fragrance from the chest →
   healing via wash-water → 1615 Dominican custody → 1923 coronation. The
   panel (c. 1651–1670, antependium of the chapel altar) shows three
-  layered zones (earth / surface / heaven), dual radiant bursts, and a
-  figure inside an earth-hollow.
+  layered zones (earth / surface / heaven), dual radiant bursts at the
+  discovery point and in the sky, four successive sanctuary buildings,
+  and a secondary topographic vignette of the actual Gidle church with
+  a pilgrim crossing an arched bridge over water.
 - **Reasonable inference:** the figurine is likely older than its written
   cult (date and material unconfirmed; stylistically medieval); the large
   stone almost certainly remains under the present chapel; the panel
@@ -441,7 +676,7 @@ rather than competing:
   Internally coherent and consistent with patterns Pasulka identifies, but
   not provable from the surviving sources.
 
-## 8. Open questions
+## 9. Open questions
 
 1. Material analysis of the figurine (stone vs. mammoth bone vs. other);
    art-historical comparison with medieval Marian statuettes.
@@ -460,6 +695,20 @@ rather than competing:
 5. Systematic comparison of this relief with other narrative reliefs from
    the same Dominican workshop tradition — is the earth-emergent
    treatment really unusual?
+6. A clean modern transcription of the most phenomenologically dense
+   miracle narratives in Zagajowski 1724 — minimally **Brat. 8** (the
+   recurring nocturnal lights, l. 2855); the **riders' aerial vision**
+   (l. 3461); the **luminous-cloud encounter** (l. 6985); the **Pławno
+   *Image-of-Death*** (l. 7081); the **Bartolomeus Plebani fragrant-dust
+   deposition** (l. 3070); the **Sworska / Woytowicz exorcisms**
+   (l. 5099, 5354). The OCR (`/tmp/zagajowski-1724-full.txt`, archived
+   at [`docs/working-notes/zagajowski-anomaly-sweep/`](./working-notes/zagajowski-anomaly-sweep/))
+   is adequate for indexing but not for citation; the DjVu pages
+   themselves need to be read and transcribed by hand.
+7. Re-OCR or hand-transcribe **Tomasz z Pilzna 1645** — the current OCR
+   is so degraded that systematic anomaly mining is impossible on the
+   body text, even though we know from Torenc 2010 that ~75 unique
+   narratives there are not in Trebnic or Zagajowski.
 
 ## Visiting BJ (Biblioteka Jagiellońska) — practical note
 
