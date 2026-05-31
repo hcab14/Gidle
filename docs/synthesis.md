@@ -412,7 +412,15 @@ quietly let go.
 
 Page/line references below are to the OCR of the JBC scan stored at
 [`references/zagajowski-1724-skarb-wielki/`](./references/zagajowski-1724-skarb-wielki/);
-line numbers refer to the flat-text dump (`djvutxt` output, 8250 lines).
+line numbers refer to the flat-text dump (`djvutxt` output, 228 pages
+→ 8250 lines), committed at
+[`working-notes/zagajowski-anomaly-sweep/zagajowski-1724-ocr.txt`](working-notes/zagajowski-anomaly-sweep/zagajowski-1724-ocr.txt)
+with a line→page index at
+[`working-notes/zagajowski-anomaly-sweep/line-page-index.json`](working-notes/zagajowski-anomaly-sweep/line-page-index.json).
+For each line-anchored claim in this section, the gold-standard
+cross-reference (page image + raw OCR + vision transcription +
+English translation + uncertainty notes) is in
+[`working-notes/zagajowski-anomaly-sweep/claims-cross-reference.md`](working-notes/zagajowski-anomaly-sweep/claims-cross-reference.md).
 
 ### 5.1 Recurring anomalous lights at the church
 
@@ -512,13 +520,14 @@ overcommitted reading now retracted in §3.1).
 ### 5.4 The fragrant dust from the figurine (anomalous material residue)
 
 One of the most phenomenologically striking entries in the entire book
-(line 3070–3085, deposition of Bartolomeus Plebani of Gidle, recorded
-*coram notario sub juramento*) concerns work done on the figurine
-itself. The witness — then **starszy** (elder) of the local Rosary
-Brotherhood — had taken the figurine to a goldsmith in Radomsko (one
-**Jerzy** — the same first name traditionally attached to the
-1636 *Trebnic*; almost certainly a different person) to have new silver
-crowns and clothing made. The metal filings/dust from the figurine, when
+(line 3070–3085, deposition of **Jan Kotulski** (Latin: *Nobilis
+Joannes Kotulski, Pictor, Incola Gidlensis* — the noble painter of
+Gidle), recorded *coram notario sub juramento*) concerns work done on
+the figurine itself. The witness — then **starszy** (elder) of the
+local Rosary Brotherhood — had taken the figurine to a goldsmith in
+Radomsko (one **Jerzy** — the same first name traditionally attached
+to the 1636 *Trebnic*; almost certainly a different person) to have
+new silver crowns and clothing made. The metal filings/dust from the figurine, when
 swept onto the goldsmith's forge fire:
 
 > *„uczynił wonność wielką godzinę w domu onym, ja z Złotnikiem
@@ -556,10 +565,12 @@ collective prayer, and:
 
 The Krakovian burgher **Maciej Woytowicz** (line 5354), possessed for
 half a year, was freed before the same image; *„znak tylko czart
-zostawił że mu [łaty?] złamał, na to patrzeła cała kompania
+zostawił że mu kij złamał, na to patrzeła cała kompania
 Różancowa”* — the only sign the discharging entity left was a
-physical breakage on the man, witnessed by the **whole Rosary
-company**. **Sworska Zofia** (separate index entry, line 8029): *„czart
+broken walking-stick on the man, witnessed by the **whole Rosary
+company**. (The print spelling is *„kyi”*, normalised to *„kij”* =
+walking-stick; see [`claims-cross-reference.md` Claim 5](working-notes/zagajowski-anomaly-sweep/claims-cross-reference.md#claim-5--woytowicz-exorcism-broken-bone-exit-sign)
+for the page image and full notes.) **Sworska Zofia** (separate index entry, line 8029): *„czart
 w postać much wyszedł z niey”* — "the devil came out of her in the
 form of flies" (plural). The phenomenology is consistently
 material-residue-on-exit: insect form, broken object, etc.
@@ -696,7 +707,7 @@ with line citations to the OCR in §5):
   with verified predictive content.
 - Depth-rescue miracles formally indexed as two classes: buried-by-
   earth and well-fall (§5.3, l. 7561).
-- The Bartolomeus Plebani deposition on **anomalous material property
+- The Jan Kotulski deposition on **anomalous material property
   of the figurine itself** (fragrant dust when burnt, §5.4, l. 3070).
 - Material-form exit of "possessing" entities, multi-witnessed (§5.5,
   l. 5099, l. 5354).
@@ -879,7 +890,7 @@ comparative work on Marian apparitions). The point of doing this is
   catalogued nocturnal-luminous-orb reports; the Pławno 1662 daylight
   translucent figure with verified predictive content (§5.2) shares
   structural features with daylight close-encounter reports of
-  translucent intelligent entities; the Bartolomeus Plebani sworn
+  translucent intelligent entities; the Jan Kotulski sworn
   deposition on the figurine's *fragrant-dust-on-fire* anomaly (§5.4)
   reads almost word-for-word like contemporary "anomalous materials"
   reports in which an artefact behaves in ways that surprise the
@@ -1161,20 +1172,40 @@ current detail in the first place.
 5. Systematic comparison of this relief with other narrative reliefs from
    the same Dominican workshop tradition — is the earth-emergent
    treatment really unusual?
-6. A clean modern transcription of the most phenomenologically dense
-   miracle narratives in Zagajowski 1724 — minimally **Brat. 8** (the
-   recurring nocturnal lights, l. 2855); the **riders' aerial vision**
-   (l. 3461); the **luminous-cloud encounter** (l. 6985); the **Pławno
-   *Image-of-Death*** (l. 7081); the **Bartolomeus Plebani fragrant-dust
-   deposition** (l. 3070); the **Sworska / Woytowicz exorcisms**
-   (l. 5099, 5354). The OCR (`/tmp/zagajowski-1724-full.txt`, archived
-   at [`docs/working-notes/zagajowski-anomaly-sweep/`](./working-notes/zagajowski-anomaly-sweep/))
-   is adequate for indexing but not for citation; the DjVu pages
-   themselves need to be read and transcribed by hand.
-7. Re-OCR or hand-transcribe **Tomasz z Pilzna 1645** — the current OCR
-   is so degraded that systematic anomaly mining is impossible on the
-   body text, even though we know from Torenc 2010 that ~75 unique
-   narratives there are not in Trebnic or Zagajowski.
+6. **(Substantially done.)** A clean transcription of the most
+   phenomenologically dense miracle narratives in Zagajowski 1724 —
+   the **Brat. 8** recurring-lights narrative (l. 2855), the **riders'
+   aerial vision** (l. 3461), the **luminous-cloud encounter**
+   (l. 6985), the **Pławno *Image-of-Death*** (l. 7081), the **Jan
+   Kotulski fragrant-dust deposition** (l. 3070), and the **Sworska /
+   Woytowicz exorcisms** (l. 5099, l. 5354) — is now in
+   [`working-notes/zagajowski-anomaly-sweep/claims-cross-reference.md`](working-notes/zagajowski-anomaly-sweep/claims-cross-reference.md),
+   together with page-image crops with red-rectangle overlays around
+   the cited passages and uncertainty notes. The full Zagajowski OCR
+   dump is committed at
+   [`working-notes/zagajowski-anomaly-sweep/zagajowski-1724-ocr.txt`](working-notes/zagajowski-anomaly-sweep/zagajowski-1724-ocr.txt)
+   (228 pages → 8250 lines) with a line→page index for cross-reference
+   anchoring. Remaining: extend to the 8-entry drowning-rescue
+   cluster (l. 2829, 3110, 3120, 3580, 3746, 5580, 5966, 6451) and
+   to the secondary index entries enumerated in §5.6.
+7. **(Pilot done; full pass pending.)** Re-OCR **Tomasz z Pilzna 1645**
+   via vision transcription. The body of the book is printed in
+   Schwabacher blackletter that defeats `djvutxt` almost completely,
+   so the grep-based methodology that produced §5 cannot be replicated
+   on this source. A 6-page vision-transcription pilot at
+   [`working-notes/pilzna-1645-vision-pilot/`](working-notes/pilzna-1645-vision-pilot/)
+   demonstrates the approach works and surfaces (a) the book's
+   controlling theological metaphor (*„skarb zákopány w roley”*, the
+   Matt 13:44 hidden-treasure parable, on the title page); (b) the
+   1645 framing of the cult as *„skarb Korony Polskiey”* (treasure of
+   the Polish Crown); and (c) a 1518-dated child-healing miracle from
+   Słomniki near Kraków — the earliest dated Gidle miracle preserved in
+   print, within two years of the founding discovery. The natural
+   next step is full-book vision-API transcription via a
+   `vision-transcribe.py` wrapper around the JPGs the existing
+   pipeline already produces (see `scripts/README.md` for the
+   deferred-work note). Torenc 2010 estimates ~75 narratives in
+   Pilzna 1645 that are not in Trebnic or Zagajowski.
 8. **Identify the specific Gidle sanctuary building depicted in the
    right-bottom vignette of the panel** (the multi-windowed nave with
    cross-topped sacristy spire and adjacent pillar tower — see
